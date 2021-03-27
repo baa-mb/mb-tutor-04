@@ -24,7 +24,7 @@ During an interaction, the step description (all text before the first code bloc
         console.log("alois")
     }
 ``` 
-![Wo ist das Bild](/static/bild.png)
+![Wo ist das Bild](https://github.com/baa-mb/mb-tutor-04/static/bild.png)
 
 ## Step 2
 # Anleitung 
