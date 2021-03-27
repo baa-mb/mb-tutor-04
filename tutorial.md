@@ -24,7 +24,7 @@ During an interaction, the step description (all text before the first code bloc
         console.log("alois")
     }
 ``` 
-![Agent building a tower](/bilder/bild.png)
+![Wo ist das Bild](/static/bild.png)
 
 ## Step 2
 # Anleitung 
