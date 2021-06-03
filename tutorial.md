@@ -29,7 +29,7 @@ During an interaction, the step description (all text before the first code bloc
     }
 ``` 
 
-![Hier muss ein Bild stehen](static/bild.png)
+![Hier muss ein Bild stehen](bilder/bild.png)
 
 ## Step 2
 # Anleitung 
