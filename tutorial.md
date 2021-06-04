@@ -36,7 +36,9 @@ During an interaction, the step description (all text before the first code bloc
 
 Sehr gut!
 
-![bild](/static/tutorials/bild.gif)
+![Bild](https://github.com/baa-mb/mb-tutor-04/raw/master/static/bild.png)
+
+![Bild aus der linken Leiste](D:\github\mb-tutor-04\static\bild.png)
 
 ## Introduction @unplugged
 
