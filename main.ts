@@ -1,4 +1,4 @@
 input.onButtonPressed(Button.A, function () {
-    basic.showString("Hello!")
+    basic.showString("Hellox!")
 })
 basic.showIcon(IconNames.Heart)
