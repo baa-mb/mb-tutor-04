@@ -9,7 +9,7 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md",
+        "readme.md",
         "tutorial.md"
     ],
     "testFiles": [
