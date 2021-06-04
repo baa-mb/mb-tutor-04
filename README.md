@@ -27,9 +27,6 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
 #### Metadaten (verwendet für Suche, Rendering)
 
-
-
-
 # Lernprogramm
 
 ## It's time to code! @showHint
