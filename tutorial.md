@@ -38,7 +38,7 @@ Sehr gut!
 
 ![Bild](https://github.com/baa-mb/mb-tutor-04/raw/master/static/bild.png)
 
-![Bild aus der linken Leiste](D:\github\mb-tutor-04\static\bild.png)
+![Bildreferenzen richtig](https://baa-mb.github.com/mb-tutor-04/bilder/bild.png)
 
 ## Introduction @unplugged
 
