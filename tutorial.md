@@ -43,7 +43,7 @@ Sehr gut!
 ## Introduction @unplugged
 
 Have the agent build a tower! Make a command to tell it how many levels to build.
-![Agent building a tower](s.png)
+![Agent building a tower](https://github.com/baa-mb/mb-tutor-04/raw/master/s.png)
 
 
 
