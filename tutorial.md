@@ -46,14 +46,14 @@ During an interaction, the step description (all text before the first code bloc
 
 Sehr gut!
 
-![Bild](https://github.com/baa-mb/mb-tutor-04/raw/master/static/bild.png)
+![Bild](https://github.com/baa-mb/mb-tutor-04/raw/master/bilder/b.png)
 
 ![Bildreferenzen richtig](https://github.com/baa-mb/mb-tutor-04/raw/master/bilder/w.png)
 
 ## Introduction @unplugged
 
 Have the agent build a tower! Make a command to tell it how many levels to build.
-![Agent building a tower](https://github.com/baa-mb/mb-tutor-04/raw/master/s.png)
+![Agent building a tower](https://github.com/baa-mb/mb-tutor-04/raw/master/bilder/s.png)
 
 
 
