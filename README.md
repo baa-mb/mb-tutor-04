@@ -80,7 +80,7 @@ During an interaction, the step description (all text before the first code bloc
 ## Step 2
 # Anleitung 
 
-Sehr gut!
+Sehr gut!xxxx
 
 ![Bild](https://github.com/baa-mb/mb-tutor-04/raw/master/bilder/b.png)
 
