@@ -65,11 +65,17 @@ Have the agent build a tower! Make a command to tell it how many levels to build
 
 Get a ``||input:temperature||`` block and place it in the value slot of ``||basic:show number||``.
 
-```blocks
-    forever(function() { 
+```block
+    basic.forever(function() { 
         basic.showNumber(input.temperature())
         basic.pause(1000)
     })
 
+
+    basic.forever(function() {
+        basic.showNumber(input.temperature())
+        basic.pause(1000)
+        basic.showString("alois")
+    })
 ```
 
