@@ -15,6 +15,7 @@ During an interaction, the step description (all text before the first code bloc
 forever(function() {
     basic.showNumber(input.temperature())
     basic.pause(1000)
+    basic.showText("alois")
 })
 
 ```
